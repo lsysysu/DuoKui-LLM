@@ -45,7 +45,7 @@ $$\text{DuoKui} = \text{高质量语料} \oplus \text{RAG（准确性）} \oplus
 ### 环境要求
 
   * Python 3.9+
-  * 至少 XX GB 显存 (推荐配置：NVIDIA RTX 4090 或更高级别 GPU 用于微调和推理)
+  * 至少 16 GB 显存 (推荐配置：NVIDIA RTX 4090 或更高级别 GPU 用于微调和推理)
 
 ### 1\. 克隆项目
 
